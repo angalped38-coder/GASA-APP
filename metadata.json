@@ -1,0 +1,6 @@
+{
+  "name": "GASA objetivos - Familia Galindo Salomon",
+  "description": "Aplicación de administración del hogar y finanzas colaborativas para la Familia Galindo Salomon. Gestión de ingresos por perfil que suman al pozo del hogar, egresos, cuotas y metas.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
